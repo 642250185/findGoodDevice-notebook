@@ -1,0 +1,52 @@
+[
+    {
+        "typeId": 3,
+        "brandId": 1,
+        "brandName": "苹果"
+    },
+    {
+        "typeId": 3,
+        "brandId": 23,
+        "brandName": "惠普"
+    },
+    {
+        "typeId": 3,
+        "brandId": 5,
+        "brandName": "小米"
+    },
+    {
+        "typeId": 3,
+        "brandId": 19,
+        "brandName": "戴尔"
+    },
+    {
+        "typeId": 3,
+        "brandId": 20,
+        "brandName": "华硕"
+    },
+    {
+        "typeId": 3,
+        "brandId": 15,
+        "brandName": "联想"
+    },
+    {
+        "typeId": 3,
+        "brandId": 4,
+        "brandName": "三星"
+    },
+    {
+        "typeId": 3,
+        "brandId": 35,
+        "brandName": "炫龙"
+    },
+    {
+        "typeId": 3,
+        "brandId": 36,
+        "brandName": "神舟"
+    },
+    {
+        "typeId": 3,
+        "brandId": 33,
+        "brandName": "微软"
+    }
+]

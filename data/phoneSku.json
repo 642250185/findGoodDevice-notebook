@@ -1,0 +1,266 @@
+[
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 5,
+        "pvId": "929",
+        "key": "型号",
+        "value": "MacBook Pro MF839"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 11,
+        "pvId": "1499",
+        "key": "内存",
+        "value": "128G固态"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 10,
+        "pvId": "711",
+        "key": "颜色",
+        "value": "银色"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 12,
+        "pvId": "26",
+        "key": "成色",
+        "value": "95新"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 9,
+        "pvId": "1",
+        "key": "版本",
+        "value": "国行"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 8,
+        "pvId": "734",
+        "key": "网络",
+        "value": "Wifi"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 33,
+        "pvId": "931",
+        "key": "显卡",
+        "value": "Iris Graphics 6100"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 25,
+        "pvId": "375",
+        "key": "RAM容量",
+        "value": "8GB"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 20,
+        "pvId": "930",
+        "key": "CPU",
+        "value": "i5 5257U"
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 21,
+        "pvId": "252",
+        "key": "主频",
+        "value": "2.7GHz "
+    },
+    {
+        "productId": 208977,
+        "productName": "95新 MacBook Pro MF839 128G固态银",
+        "pnId": 13,
+        "pvId": "249",
+        "key": "屏幕尺寸",
+        "value": "13.3英寸"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 5,
+        "pvId": "855",
+        "key": "型号",
+        "value": "Macbook Air  MJVM2"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 11,
+        "pvId": "1499",
+        "key": "内存",
+        "value": "128G固态"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 10,
+        "pvId": "19",
+        "key": "颜色",
+        "value": "白色"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 12,
+        "pvId": "26",
+        "key": "成色",
+        "value": "95新"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 9,
+        "pvId": "1",
+        "key": "版本",
+        "value": "国行"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 8,
+        "pvId": "734",
+        "key": "网络",
+        "value": "Wifi"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 33,
+        "pvId": "866",
+        "key": "显卡",
+        "value": "HD6000"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 25,
+        "pvId": "240",
+        "key": "RAM容量",
+        "value": "4GB"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 20,
+        "pvId": "863",
+        "key": "CPU",
+        "value": "i5-5250"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 21,
+        "pvId": "864",
+        "key": "主频",
+        "value": "1.6GHz"
+    },
+    {
+        "productId": 311510,
+        "productName": "95新 Macbook Air  MJVM2 128G固态白",
+        "pnId": 13,
+        "pvId": "867",
+        "key": "屏幕尺寸",
+        "value": "11.6英寸"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 5,
+        "pvId": "2878",
+        "key": "型号",
+        "value": "MacBook Pro ME665"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 11,
+        "pvId": "478",
+        "key": "内存",
+        "value": "512G"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 10,
+        "pvId": "711",
+        "key": "颜色",
+        "value": "银色"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 12,
+        "pvId": "26",
+        "key": "成色",
+        "value": "95新"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 9,
+        "pvId": "1",
+        "key": "版本",
+        "value": "国行"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 8,
+        "pvId": "734",
+        "key": "网络",
+        "value": "Wifi"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 25,
+        "pvId": "375",
+        "key": "RAM容量",
+        "value": "8GB"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 20,
+        "pvId": "1008",
+        "key": "CPU",
+        "value": "Intel Core i7"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 21,
+        "pvId": "252",
+        "key": "主频",
+        "value": "2.7GHz "
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 13,
+        "pvId": "1009",
+        "key": "屏幕尺寸",
+        "value": "15.4英寸"
+    },
+    {
+        "productId": 311508,
+        "productName": "95新 MacBook Pro ME665 512G银",
+        "pnId": 14,
+        "pvId": "1413",
+        "key": "分辨率",
+        "value": "2880*1800"
+    }
+]
